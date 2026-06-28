@@ -1,0 +1,1 @@
+{ "company":"F", "date":"2026-06-22", "name":"증시 나우", "version":"v1.0", "desc":"세계 주요 증시 지수(코스피·코스닥·나스닥·다우·S&P500·닛케이225)의 현재값과 전일 대비 등락(▲빨강/▼파랑 한국식)을 카드 리스트로 표시하는 다크 테마 앱. Stooq 무료·무키 CSV 사용(일중 시가 대비 등락·무키 한계 명시), 60초 2회 호출 throttle·캐시·오프라인 폴백. 매매·투자조언 없는 표시 전용·개인정보 무수집·INTERNET 권한만. Kotlin/Jetpack Compose Material3 · minSdk24/targetSdk34.", "score":85 }
